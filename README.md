@@ -8,5 +8,5 @@
 3. 外盒設計:
 使用Solidworks軟體繪製外盒圖，用雷射切割密集板來加工，設計一個美觀的外盒。喇叭前方為單體和網罩，上方為電源開關和音量旋鈕，後方為電源和音源線輸入，內部另外添加吸音棉來吸音降躁。
 
-雙聲道喇叭實體圖
+# 雙聲道喇叭實體圖
 ![image alt](https://github.com/jinshuolee/Speaker-design/blob/main/Speaker.jpg?raw=true)
